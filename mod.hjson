@@ -1,0 +1,8 @@
+name: "UI Example"
+displayName: "UI Example"
+author: "Snooze"
+main: scripts/main.js
+description: ""
+version: 1.00
+minGameVersion: 146
+hidden: false
