@@ -1,5 +1,5 @@
-name: "UI Example"
-displayName: "UI Example"
+name: "Scheme-Calculator"
+displayName: "Scheme-Calculator"
 author: "Snooze"
 main: scripts/main.js
 description: ""
